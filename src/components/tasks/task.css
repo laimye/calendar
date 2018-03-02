@@ -1,0 +1,32 @@
+.task-item {
+  margin: 5vmin;
+}
+
+.task-header {
+  text-align: center;
+}
+
+.title {
+  padding: 0 15%;
+  font-size: 20px;
+}
+
+.event-container {
+  margin: 10vmin;
+}
+
+input, textarea {
+  width: 40%;
+}
+
+label {
+  padding: 0 2% 3% 10%;
+}
+
+button {
+  width: 20vmin;
+}
+
+.delete-button {
+  margin-left: 10%
+}

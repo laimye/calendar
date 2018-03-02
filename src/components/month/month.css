@@ -1,0 +1,15 @@
+.calendar-container {
+  margin: 5vmin;
+}
+.top-header {
+  padding: 2vmin;
+}
+
+.month {
+  font-size: 30px;
+}
+
+.change-month {
+  float: right;
+  padding-top: 3vmin;
+}

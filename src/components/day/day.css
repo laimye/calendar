@@ -1,0 +1,19 @@
+.day-box {
+  box-sizing: border-box;
+  height: 20vh;
+  width: 14.2%;
+  float: left;
+  font-size: 15px;
+  padding: 1vmin;
+}
+
+a.day-of-month {
+  width: 35px;
+  float: right;
+  color: white;
+  border: 5px solid red;
+  border-radius: 50%;
+  background: red;
+  text-align: center;
+  font-size: 15px;
+}
